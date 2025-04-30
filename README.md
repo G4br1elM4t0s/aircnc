@@ -1,6 +1,5 @@
 <div align="center"> 
 
-## Rocketseat - Semana OmniStack 9.0
 # Projeto - Aplicação AirCnC (AirCode n'Coffee)
 
 </div>
